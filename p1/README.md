@@ -1,7 +1,7 @@
 
 # Project 1
 + By: *Grigory Gonastarev*
-+ URL: <http://e2p1.yourdomain.com>
++ URL: <http://grgharv.bio/>
 
 ## Game planning
 _In plain english - no code - think through how you'll make this game work. Example:_
