@@ -17,7 +17,7 @@
 *None*
 
 ## Codeception testing output
-'''text
+```text
 root@php-class:/var/www/e2/p3# php vendor/bin/codecept run Acceptance --steps
 Codeception PHP Testing Framework v5.0.12 https://stand-with-ukraine.pp.ua
 
